@@ -1,0 +1,7 @@
+Object ID,Class Name,Confidence,Bounding Box,Description,Extracted Text,Summary
+0,person,0.25617507100105286,"[1131.7037353515625, 465.6994323730469, 1255.7747802734375, 905.86474609375]",Detected a person with a confidence of 0.26.,No text extracted.,No summary available.
+2,car,0.4723685681819916,"[258.98199462890625, 551.953125, 456.3605041503906, 812.5953369140625]",Detected a car with a confidence of 0.47.,No text extracted.,No summary available.
+5,bus,0.3594449460506439,"[763.9935913085938, 210.35118103027344, 1319.2447509765625, 882.8869018554688]",Detected a bus with a confidence of 0.36.,No text extracted.,No summary available.
+24,backpack,0.5669866800308228,"[1495.0394287109375, 341.526123046875, 1782.3375244140625, 758.3615112304688]",Detected a backpack with a confidence of 0.57.,No text extracted.,No summary available.
+7,truck,0.4222668409347534,"[768.7279663085938, 207.25059509277344, 1327.4755859375, 876.4265747070312]",Detected a truck with a confidence of 0.42.,No text extracted.,No summary available.
+26,handbag,0.34369832277297974,"[1453.8773193359375, 727.6268920898438, 1568.34375, 837.3571166992188]",Detected a handbag with a confidence of 0.34.,No text extracted.,No summary available.
